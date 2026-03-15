@@ -1,0 +1,136 @@
+/* Turkish */
+"settings.download_settings" = "İndirme Ayarları";
+"settings.destination_folder" = "Hedef Klasör";
+"settings.concurrent_downloads" = "Eş Zamanlı İndirme";
+"settings.concurrent_downloads_desc" = "Aynı anda indirilecek dosya sayısı";
+"settings.cache" = "Önbellek";
+"settings.thumbnail_cache" = "Küçük Resim Önbelleği";
+"settings.tdlib_cache" = "İndirilen Dosyalar Önbelleği";
+"settings.tdlib_database" = "Veritabanı";
+"settings.language" = "Dil";
+"settings.select_folder" = "Seç...";
+
+"common.start_download" = "İndirmeye Başla";
+"common.cancel" = "İptal";
+"common.clear" = "Temizle";
+"common.calculating" = "Hesaplanıyor...";
+"common.error" = "Hata";
+"common.ok" = "Tamam";
+
+"auth.logout" = "Çıkış Yap";
+"auth.logout_confirmation" = "Hesabınızdan çıkış yapmak istediğinize emin misiniz?";
+
+"chat.title" = "Sohbetler";
+"chat.search_placeholder" = "Sohbet ara...";
+"chat.no_chats" = "Sohbet Yok";
+"chat.no_chats_desc" = "Henüz sohbet bulunmuyor";
+"chat.refresh" = "Yenile";
+"chat.no_results_for" = "'%@' için sonuç bulunamadı";
+
+"media.details" = "Detaylar";
+"media.videos_selected" = "video seçildi";
+"media.clear_selection" = "Seçimi Temizle";
+"media.selected_videos" = "Seçili Videolar";
+"media.total_size" = "Toplam Boyut";
+"media.avg_duration" = "Ortalama Süre";
+"media.select_media" = "Medya Seçin";
+"media.select_media_desc" = "İndirmek için bir veya daha fazla video seçin";
+"media.no_videos" = "Video Yok";
+"media.no_videos_desc" = "Bu sohbette video bulunamadı";
+
+"download.title" = "İndirmeler";
+"download.no_downloads" = "İndirme Yok";
+"download.no_downloads_desc" = "Henüz aktif indirme bulunmuyor";
+"download.active_downloads" = "aktif indirme";
+"download.clear_completed" = "Tamamlananları Temizle";
+"download.pause" = "Duraklat";
+"download.resume" = "Devam Et";
+"download.retry" = "Tekrar Dene";
+"download.cancel" = "İptal";
+
+
+"language.turkish" = "Türkçe";
+"language.english" = "İngilizce";
+
+"main.refresh" = "Yenile";
+"main.refresh_help" = "Sohbet listesini yenile";
+"main.folder" = "Klasör";
+"main.folder_help" = "İndirme klasörünü seç";
+"main.download_all" = "Tümünü İndir";
+"main.download_all_help" = "Seçili tüm videoları indir";
+"main.settings" = "Ayarlar";
+"main.profile" = "Profil";
+"main.profile_help" = "Profil ve ayarlar";
+"main.select_folder_title" = "İndirme Klasörünü Seçin";
+"main.select" = "Seç";
+"main.select_chat_title" = "Sohbet Seçin";
+"main.select_chat_desc" = "Sol panelden bir sohbet veya kanal seçarak başlayın";
+
+"auth.title" = "TG Media Backup";
+"auth.subtitle" = "macOS Media Backup Tool";
+"auth.api_credentials" = "Telegram API Bilgileri";
+"auth.api_credentials_desc" = "Uygulamayı kullanmak için API ID ve Hash gereklidir";
+"auth.how_to_get_api" = "API Bilgilerini Nasıl Alırım?";
+"auth.phone_number" = "Telefon Numaranız";
+"auth.phone_number_desc" = "Telegram hesabınıza kayıtlı telefon numarasını girin";
+"auth.example" = "Örnek";
+"auth.verification_code" = "Doğrulama Kodu";
+"auth.verification_code_desc" = "Telegram'a gelen kodu girin";
+"auth.2fa" = "İki Adımlı Doğrulama";
+"auth.2fa_desc" = "Hesabınızda 2FA etkin. Lütfen şifrenizi girin.";
+"auth.password" = "Şifre";
+"auth.login" = "Giriş Yap";
+"auth.continue" = "Devam Et";
+"auth.back" = "Geri";
+"auth.send_code" = "Kod Gönder";
+"auth.verify" = "Doğrula";
+"auth.resend_code" = "Kodu Tekrar Gönder";
+"auth.footer_warning1" = "⚠️ Bu uygulama Telegram'ın resmi API'lerini kullanır";
+"auth.footer_warning2" = "Telegram'ın hizmet şartlarına uygun şekilde kullanınız";
+
+"guide.title" = "API Bilgileri Nasıl Alınır";
+"guide.close" = "Kapat";
+"guide.header_title" = "API Kimlik Bilgileri";
+"guide.header_desc" = "TG Media Backup uygulamasını kullanmak için Telegram API kimlik bilgileri gereklidir";
+"guide.intro" = "Bu bilgiler tamamen ücretsizdir ve Telegram tarafından sağlanır. Aşağıdaki adımları takip ederek kendi API kimlik bilgilerinizi alabilirsiniz.";
+"guide.step1_title" = "my.telegram.org adresine gidin";
+"guide.step1_desc" = "Tarayıcınızda my.telegram.org adresini açın";
+"guide.step2_title" = "Telefon numaranızla giriş yapın";
+"guide.step2_desc" = "Telegram hesabınıza kayıtlı telefon numarasını kullanarak giriş yapın";
+"guide.step3_title" = "API development tools'a tıklayın";
+"guide.step3_desc" = "Açılan sayfada 'API development tools' bağlantısına tıklayın";
+"guide.step4_title" = "Yeni bir uygulama oluşturun";
+"guide.step4_desc" = "Form doldurarak yeni bir uygulama kaydı oluşturun:\n• App title: TG Media Backup\n• Short name: tgmediabackup\n• Platform: Desktop\n• Description: Media backup tool";
+"guide.step5_title" = "API ID ve API Hash'i kopyalayın";
+"guide.step5_desc" = "Oluşturulan uygulamanın API ID ve API Hash değerlerini not alın ve TG Media Backup'a girin";
+"guide.warning_title" = "Güvenlik Uyarısı";
+"guide.warning_desc" = "API ID ve Hash değerlerinizi kimseyle paylaşmayın. Bu bilgiler hesabınıza tam erişim sağlar.";
+
+
+"error.title" = "Bir Hata Oluştu";
+"error.retry" = "Tekrar Dene";
+
+"status.pending" = "Bekliyor";
+"status.downloading" = "İndiriliyor";
+"status.paused" = "Duraklatıldı";
+"status.completed" = "Tamamlandı";
+"status.failed" = "Başarısız";
+"status.cancelled" = "İptal Edildi";
+
+"dialog.private" = "Özel Sohbet";
+"dialog.group" = "Grup";
+"dialog.channel" = "Kanal";
+"dialog.supergroup" = "Süper Grup";
+"dialog.bot" = "Bot";
+
+"user.unknown" = "Bilinmeyen Kullanıcı";
+
+"media.type.photo" = "Fotoğraf";
+"media.type.video" = "Video";
+"media.type.audio" = "Ses";
+"media.type.voice" = "Sesli Mesaj";
+"media.type.document" = "Dosya";
+"media.type.sticker" = "Sticker";
+"media.type.animation" = "GIF";
+"media.type.videoNote" = "Video Mesaj";
+

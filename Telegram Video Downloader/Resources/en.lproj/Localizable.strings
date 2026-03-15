@@ -1,0 +1,136 @@
+/* English */
+"settings.download_settings" = "Download Settings";
+"settings.destination_folder" = "Destination Folder";
+"settings.concurrent_downloads" = "Concurrent Downloads";
+"settings.concurrent_downloads_desc" = "Number of files to download at the same time";
+"settings.cache" = "Cache";
+"settings.thumbnail_cache" = "Thumbnail Cache";
+"settings.tdlib_cache" = "Downloaded Files Cache";
+"settings.tdlib_database" = "Database";
+"settings.language" = "Language";
+"settings.select_folder" = "Select...";
+
+"common.start_download" = "Start Download";
+"common.cancel" = "Cancel";
+"common.clear" = "Clear";
+"common.calculating" = "Calculating...";
+"common.error" = "Error";
+"common.ok" = "OK";
+
+"auth.logout" = "Log Out";
+"auth.logout_confirmation" = "Are you sure you want to log out?";
+"auth.send_code" = "Send Code";
+"auth.verify" = "Verify";
+"auth.resend_code" = "Resend Code";
+
+"chat.title" = "Chats";
+"chat.search_placeholder" = "Search chats...";
+"chat.no_chats" = "No Chats";
+"chat.no_chats_desc" = "No chats found yet";
+"chat.refresh" = "Refresh";
+"chat.no_results_for" = "No results found for '%@'";
+
+"media.details" = "Details";
+"media.videos_selected" = "videos selected";
+"media.clear_selection" = "Clear Selection";
+"media.selected_videos" = "Selected Videos";
+"media.total_size" = "Total Size";
+"media.avg_duration" = "Average Duration";
+"media.select_media" = "Select Media";
+"media.select_media_desc" = "Select one or more videos to download";
+"media.no_videos" = "No Videos";
+"media.no_videos_desc" = "No videos found in this chat";
+
+"download.title" = "Downloads";
+"download.no_downloads" = "No Downloads";
+"download.no_downloads_desc" = "No active downloads yet";
+"download.active_downloads" = "active downloads";
+"download.clear_completed" = "Clear Completed";
+"download.pause" = "Pause";
+"download.resume" = "Resume";
+"download.retry" = "Retry";
+"download.cancel" = "Cancel";
+
+
+"language.turkish" = "Turkish";
+"language.english" = "English";
+
+"main.refresh" = "Refresh";
+"main.refresh_help" = "Refresh chat list";
+"main.folder" = "Folder";
+"main.folder_help" = "Select download folder";
+"main.download_all" = "Download All";
+"main.download_all_help" = "Download all selected videos";
+"main.settings" = "Settings";
+"main.profile" = "Profile";
+"main.profile_help" = "Profile and settings";
+"main.select_folder_title" = "Select Download Folder";
+"main.select" = "Select";
+"main.select_chat_title" = "Select Chat";
+"main.select_chat_desc" = "Select a chat or channel from the left panel to start";
+
+"auth.title" = "TG Media Backup";
+"auth.subtitle" = "macOS Media Backup Tool";
+"auth.api_credentials" = "Telegram API Credentials";
+"auth.api_credentials_desc" = "API ID and Hash are required to use the app";
+"auth.how_to_get_api" = "How to get API Credentials?";
+"auth.phone_number" = "Your Phone Number";
+"auth.phone_number_desc" = "Enter the phone number registered to your Telegram account";
+"auth.example" = "Example";
+"auth.verification_code" = "Verification Code";
+"auth.verification_code_desc" = "Enter the code sent to Telegram";
+"auth.2fa" = "Two-Step Verification";
+"auth.2fa_desc" = "2FA is enabled on your account. Please enter your password.";
+"auth.password" = "Password";
+"auth.login" = "Log In";
+"auth.continue" = "Continue";
+"auth.back" = "Back";
+"auth.footer_warning1" = "⚠️ This app uses Telegram's official APIs";
+"auth.footer_warning2" = "Please use in accordance with Telegram's terms of service";
+
+"guide.title" = "How to Get API Credentials";
+"guide.close" = "Close";
+"guide.header_title" = "API Credentials";
+"guide.header_desc" = "Telegram API credentials are required to use TG Media Backup";
+"guide.intro" = "These credentials are completely free and provided by Telegram. You can get your own API credentials by following the steps below.";
+"guide.step1_title" = "Go to my.telegram.org";
+"guide.step1_desc" = "Open my.telegram.org in your browser";
+"guide.step2_title" = "Log in with your phone number";
+"guide.step2_desc" = "Log in using the phone number registered to your Telegram account";
+"guide.step3_title" = "Click on API development tools";
+"guide.step3_desc" = "Click on the 'API development tools' link on the page that opens";
+"guide.step4_title" = "Create a new application";
+"guide.step4_desc" = "Create a new application record by filling out the form:\n• App title: TG Media Backup\n• Short name: tgmediabackup\n• Platform: Desktop\n• Description: Media backup tool";
+"guide.step5_title" = "Copy API ID and API Hash";
+"guide.step5_desc" = "Note down the API ID and API Hash values of the created application and enter them into TG Media Backup";
+"guide.warning_title" = "Security Warning";
+"guide.warning_desc" = "Do not share your API ID and Hash values with anyone. These credentials provide full access to your account.";
+
+
+"error.title" = "An Error Occurred";
+"error.retry" = "Retry";
+
+"status.pending" = "Pending";
+"status.downloading" = "Downloading";
+"status.paused" = "Paused";
+"status.completed" = "Completed";
+"status.failed" = "Failed";
+"status.cancelled" = "Cancelled";
+
+"dialog.private" = "Private Chat";
+"dialog.group" = "Group";
+"dialog.channel" = "Channel";
+"dialog.supergroup" = "Supergroup";
+"dialog.bot" = "Bot";
+
+"user.unknown" = "Unknown User";
+
+"media.type.photo" = "Photo";
+"media.type.video" = "Video";
+"media.type.audio" = "Audio";
+"media.type.voice" = "Voice Message";
+"media.type.document" = "Document";
+"media.type.sticker" = "Sticker";
+"media.type.animation" = "GIF";
+"media.type.videoNote" = "Video Message";
+
